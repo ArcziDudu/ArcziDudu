@@ -4,6 +4,7 @@
 
 ![Artur Augustyn intro](https://github.com/ArcziDudu/ArcziDudu/assets/97475821/d6ce89d8-a616-4d8b-b2c7-fab2bb1b07cb)
 
+<p align="center">I am an ambitious programming enthusiast who focuses on learning and developing in Java. I write my own projects where I experiment with different technologies. I have knowledge of backend technologies and web applications. Although I am at the beginning of my programming journey, my goal is to gain skills and experience to contribute to interesting projects in the future. I learn every day and am open to new challenges.</p>
 <div align="center">
   <h3>CONNECT WITH ME</h3>
   
