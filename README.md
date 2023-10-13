@@ -10,6 +10,8 @@
   
 [<img align="center" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/artur-augustyn-a70b0228b)
 
+[<img align="center" alt="Telegram" src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/ArcziAugi)
+
 [<img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:artur.augustyn26@gmail.com)
 </div>
 <br></br>
