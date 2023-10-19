@@ -16,7 +16,7 @@
 </div>
 <br></br>
 <div align="center">
-  <h3>TECHNOLOGIES I WORK WITH</h3>
+  <h3>TECHNOLOGIES I WORKED WITH</h3>
 </div>
 <div align="center">
 <br></br>
