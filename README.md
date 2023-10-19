@@ -39,6 +39,7 @@
 <br>
 <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img align="center" alt="design patterns" src="https://img.shields.io/badge/Design%20Patterns-5C6BC0?style=for-the-badge" />
+<img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <br>
 <br>
 <img align="center" alt="thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
