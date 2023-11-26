@@ -21,6 +21,7 @@
 <br></br>
 <img align="center"alt="java" src="https://img.shields.io/badge/Java-%23DD0031.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img align="center"alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+<img align="center" alt="angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />
 <img align="center"alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="center" alt="jdbc" src="https://img.shields.io/badge/JDBC-007ACC?style=for-the-badge&logo=java-database-connectivity&logoColor=white" />
