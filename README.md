@@ -26,8 +26,8 @@
 <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="center" alt="jdbc" src="https://img.shields.io/badge/JDBC-007ACC?style=for-the-badge&logo=java-database-connectivity&logoColor=white" />
 <img align="center" alt="gradle" src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+<img align="center" alt="maven" src="https://img.shields.io/badge/Maven-02303A?style=for-the-badge&logo=apache-maven&logoColor=white" />
 <img align="center" alt="REST API" src="https://img.shields.io/badge/REST%20API-00B289?style=for-the-badge" />
-<img align="center" alt="lombok" src="https://img.shields.io/badge/Lombok-BC4E25?style=for-the-badge&logo=lombok&logoColor=white" />
 <br>
 <br>
 <img align="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
