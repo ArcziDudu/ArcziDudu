@@ -22,12 +22,16 @@
 <img align="center"alt="java" src="https://img.shields.io/badge/Java-%23DD0031.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img align="center"alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <img align="center" alt="angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />
+<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="center"alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="center" alt="jdbc" src="https://img.shields.io/badge/JDBC-007ACC?style=for-the-badge&logo=java-database-connectivity&logoColor=white" />
 <img align="center" alt="gradle" src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
 <img align="center" alt="maven" src="https://img.shields.io/badge/Maven-02303A?style=for-the-badge&logo=apache-maven&logoColor=white" />
+<br>
+<br>
 <img align="center" alt="REST API" src="https://img.shields.io/badge/REST%20API-00B289?style=for-the-badge" />
+<img align="center" alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 <br>
 <br>
 <img align="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -38,8 +42,9 @@
 <br>
 <br>
 <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img align="center" alt="design patterns" src="https://img.shields.io/badge/Design%20Patterns-5C6BC0?style=for-the-badge" />
-<img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img align="center" alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img align="center" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <br>
 <br>
 <img align="center" alt="thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
